@@ -1,8 +1,8 @@
-sinav1=int(input("İlk sınavı girin"))
+sinav1=int(input("İlk sınavı girin:"))
 
-sinav2=int(input("İkinci sınavı bulunuz"))
+sinav2=int(input("İkinci sınavı bulunuz:"))
 
-performans=int(input("Performan Notunu giriniz"))
+performans=int(input("Performan Notunu giriniz:"))
 
 ortalama=(sinav1+sinav2+performans)/3
 
